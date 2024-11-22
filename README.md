@@ -1,2 +1,2 @@
-# Weather-Detection
-Weather detection using API from openweather
+# customtkinter-Weather-GUI
+This is a python project on Weather App GUI using customtkinter
